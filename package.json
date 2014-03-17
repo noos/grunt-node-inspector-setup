@@ -1,0 +1,22 @@
+{
+  "name": "test050---debug",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD",
+  "devDependencies": {
+    "growl": "~1.7.0",
+    "grunt-shell": "~0.6.4",
+    "grunt": "~0.4.4",
+    "open": "0.0.4",
+    "load-grunt-tasks": "~0.1.0",
+    "grunt-concurrent": "~0.3.0",
+    "grunt-open": "~0.2.3",
+    "grunt-nodemon": "~0.2.1",
+    "grunt-node-inspector": "~0.1.3"
+  }
+}
