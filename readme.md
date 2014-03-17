@@ -40,4 +40,4 @@ Run app.js with debugger opened in the browser with `grunt`.
 
 ## License
 
-MIT © [Sindre Sorhus](http://sindresorhus.com)
+MIT © [noos](http://noos.com)
